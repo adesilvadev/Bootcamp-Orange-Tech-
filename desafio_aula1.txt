@@ -1,0 +1,9 @@
+Faça um programa para calcular o calor de gasto de combustível em uma viagem;
+
+Você terá 3 variáveis. Sendo elas:
+
+1 - Preço do combustível;
+2 - Valor médio de combustível do carro por KM;
+3 - Distância em KM da viagem;
+
+Imprima no console o valor gasto de comustível para realizar a viagem.ss
