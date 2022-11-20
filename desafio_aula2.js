@@ -12,7 +12,7 @@ Você terá 5 variáveis. Sendo elas:
 Imprima no console o valor gasto de comustível para realizar a viagem.
 */
 
-//Variaveis
+//Declaração das Variaveis
 
 const tipoCombustivel = 'gasolina';
 

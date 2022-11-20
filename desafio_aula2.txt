@@ -1,6 +1,6 @@
 Faça um programa para calcular o calor de gasto de combustível em uma viagem;
 
-Você terá 5 variáveis. Sendo elas:
+Você terá 5 variáveis para utilizar. Sendo elas:
 
 1 - Preço do etanol;
 2 - Preço da Gasolina;
